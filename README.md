@@ -27,6 +27,7 @@ RewriteRule . index.php
 ```
 
 > config/web.php
+
 ```
 'components' => [
   'request' => [
