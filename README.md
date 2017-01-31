@@ -1,6 +1,7 @@
 # Yii2 Basic Framework Remove the Web from url
 
 > Main .htaccess
+
 ```
 <IfModule mod_rewrite.c>
     Options +FollowSymlinks
